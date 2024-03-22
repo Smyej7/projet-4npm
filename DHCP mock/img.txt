@@ -1,0 +1,9 @@
+March 14 14:00:15 medspx dhcpd: DHCPREQUEST for 192.168.34.69 from 0001.632C.299C via etheb 
+March 14 14:00:13 medspx dhcpd: DHCPREQUEST for 192.168.74.1 from Ou:nc:10:zq:79:0s via eth0b 
+March 14 13:58:17 medspx dhcpd: DHCPREQUEST for 192.168.52.45 from 7x:46:7e:g7:24:4c via eth@b 
+March 14 13:56:45 medspx dhcpd: DHCPREQUEST for 192.168.5.64 from 0001.632C.299C via eth0b 
+March 14 13:40:03 medspx dhcpd: DHCPREQUEST for 192.168.50.36 from rx:mq: y0:8r:yb: w4 via etheb 
+March 14 13:40:02 medspx dhcpd: DHCPREQUEST for 192.168.6.91 from 0001.632C.299C via eth0b 
+March 14 13:40:00 medspx dhcpd: DHCPREQUEST for 192.168.36.86 from lr:sm: 04:2x:25:90 via eth@b 
+March 14 13:34:48 medspx dhcpd: DHCPREQUEST for 192.168.63.81 from 3j: 7b:9b:m1:75:33 via etheb
+March 14 13:33:26 medspx dhcpd: DHCPREQUEST for 192.168.62.41 from 0001.632C.299C via eth0b
